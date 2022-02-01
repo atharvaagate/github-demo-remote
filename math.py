@@ -8,6 +8,7 @@ def sub(x,y) :
 
 ##header
 def mul(x,y) :
+    return x*y
 
 ##header
 def div(x,y) :     
