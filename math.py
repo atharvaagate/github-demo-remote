@@ -4,6 +4,7 @@ def add (x,y) :
     
 ##header
 def sub(x,y) :
+    return x-y
 
 ##header
 def mul(x,y) :
